@@ -1,4 +1,4 @@
-# An intro into Markdown
+# Hello World :)
 
 Today is my birthday :D in the lecture we are going to make our first little program. And we are also learning a programming language called markdown.
 
